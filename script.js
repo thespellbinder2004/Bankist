@@ -46,7 +46,7 @@ document.addEventListener('keydown', function (e) {
 
 const message = document.createElement('div');
 message.classList.add('cookie-message');
-message.innerHTML = `We use cookies to... Blah Blah blah stfu bitch <button class = "btn btn--close--cookie">Accept</button>`;
+message.innerHTML = `We use cookies to... Blah Blah blah i lovey you kimberly <3 <button class = "btn btn--close--cookie">Accept</button>`;
 message.style.width = '110%';
 message.style.backgroundColor = '#353445';
 
